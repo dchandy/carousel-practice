@@ -4,31 +4,31 @@
 }
 
 .slide1 {
-    background-image: url("/media/pic1.jpg");
+    background-image: url("./media/pic1.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .slide2 {
-    background-image: url("/media/pic2.jpg");
+    background-image: url("./media/pic2.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .slide3 {
-    background-image: url("/media/pic3.jpg");
+    background-image: url("./media/pic3.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .slide4 {
-    background-image: url("/media/pic4.jpg");
+    background-image: url("./media/pic4.jpg");
     background-size: cover;
     background-position: center;
 }
 
 .slide5 {
-    background-image: url("/media/pic5.jpg");
+    background-image: url("./media/pic5.jpg");
     background-size: cover;
     background-position: center;
 }
